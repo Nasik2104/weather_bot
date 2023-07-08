@@ -1,7 +1,6 @@
 import requests
 
-# Ваш ключ API від OpenWeatherMap
-api_key = '47ac3b0e8423e801dd60854c54b2f58f'
+# Ваш ключ API від OpenWeatherMap'
 
 # Місце, для якого потрібен прогноз погоди (наприклад, Київ, Україна)
 location = 'Пороги'
